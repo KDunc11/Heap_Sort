@@ -1,0 +1,7 @@
+Need to do to Project properties then Debugging and insert the following for the Command Line Arguments
+
+1) The .exe file path (for in cmd only)
+2) The .sln file path
+3) Character for selecting whether the Heap is sorted in ascending ('a' or 'A') or descending order ('d' or 'D')
+4) Input file path
+5) Output file path

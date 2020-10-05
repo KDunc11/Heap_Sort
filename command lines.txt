@@ -1,0 +1,5 @@
+For cmd
+"C:\Users\Kyle\Desktop\NNU\Data Structures\Heap Sort\Debug\Heap Sort.exe" "C:\Users\Kyle\Desktop\NNU\Data Structures\Heap Sort\Heap Sort.sln" "A" "C:\Users\Kyle\Desktop\NNU\Data Structures\Heap Sort\Heap Sort\ch9nums1.dat" "C:\Users\Kyle\Desktop\NNU\Data Structures\Heap Sort\Heap Sort\output.txt"
+
+For commandline arguments in debugging
+"C:\Users\Kyle\Desktop\NNU\Data Structures\Heap Sort\Heap Sort.sln" "A" "C:\Users\Kyle\Desktop\NNU\Data Structures\Heap Sort\Heap Sort\ch9nums1.dat" "C:\Users\Kyle\Desktop\NNU\Data Structures\Heap Sort\Heap Sort\output.txt"
